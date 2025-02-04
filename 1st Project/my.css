@@ -1,0 +1,13 @@
+.dark {
+  background-color: #0c0c0c;
+  color: rgb(255, 247, 247);
+}
+.light {
+  background-color: white;
+  color: #0c0c0c;
+}
+button:hover {
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  background-color: blue;
+}
